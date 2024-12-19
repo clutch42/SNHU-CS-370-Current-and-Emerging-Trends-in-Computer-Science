@@ -1,5 +1,19 @@
-# -CS-370-Current-Emerging-Trends-in-CS
+# CS-370-Current-Emerging-Trends-in-CS
+## Course Description
+Students will explore advanced topics in Computer Science through analysis of authentic 
+scenarios. Students will analyze the role of ethics in current trends within the field as well as 
+apply fundamental concepts of the field to solve complex problems in new ways.
+## Course Competencies
+This course covers the following competencies, which represent the knowledge and skills 
+relevant to your field:
+- CS-30424: Explain the basic concepts and techniques that pertain to artificial 
+intelligence and intelligent systems
+- CS-30425: Analyze how algorithms are used in artificial intelligence to solve a variety of 
+complex problems
+- CS-30426: Analyze current trends and emerging technologies in Computer Science for 
+their impacts on society
 
+## Projects
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself? We were given most of the code for this project including the TreasureMaze and GameExperience classes. What we actually created was the training loop for the deep Q-learning algorithm.
 
 Connect your learning from throughout this course to the larger field of computer science:
